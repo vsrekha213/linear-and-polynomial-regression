@@ -1,2 +1,1 @@
-# THIS FILE GIVES YOU THE INDEPTH INTUTION BETWEEN LINAER AND POLYNOMIAL REGRESSION
-# IT ALSO COMPARES THE ACCURACY OF THE THOSE 2 MODELS AND TELLS WHICH HAS BETTER ACCURACY.
+#this file helps to compare linear and polynomial regression , with help of predicted accuracy we can choose and find best fitted model.
